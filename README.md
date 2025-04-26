@@ -30,12 +30,11 @@ Este repositório foi criado como parte do desafio da DIO para praticar a criaç
 
 ## 🖼️ Capturas de Tela
 
-(Imagens podem ser adicionadas aqui futuramente na pasta `/images`.)
+Exemplo da criação de uma máquina virtual no portal do Azure:
+
+![Criação da Máquina Virtual no Azure](./images/Imagem-github-azure.png)
 
 ## 📚 Referências
 
 - [Documentação Oficial Azure - Criar VM Windows](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal)
 - [GitHub Markdown Guide](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
-
----
-
