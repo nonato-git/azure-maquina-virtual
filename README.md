@@ -32,7 +32,7 @@ Este repositório foi criado como parte do desafio da DIO para praticar a criaç
 
 Exemplo da criação de uma máquina virtual no portal do Azure:
 
-![Criação da Máquina Virtual no Azure](./images/Imagem-github-azure.png)
+![Criação da Máquina Virtual no Azure](./images/Imagem%github-azure.png)
 
 ## 📚 Referências
 
